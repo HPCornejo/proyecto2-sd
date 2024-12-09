@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6756210acf41c6bee09ff0f5"
+  },
+  "nombre": "TT",
+  "descripcion": "Nos hace sufrir",
+  "profesor_id": {
+    "$oid": "6754ba859b7226d020569dcd"
+  }
+},
+{
+  "_id": {
+    "$oid": "67562899cf41c6bee09ff0fb"
+  },
+  "nombre": "Sistemas",
+  "descripcion": "Descripción",
+  "profesor_id": "asd"
+}]

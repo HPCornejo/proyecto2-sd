@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6754f30f9b7226d020569dd8"
+  },
+  "nombre": "asd",
+  "apellido": "asd",
+  "fecha_nacimiento": "12/12/12",
+  "direccion": "sad",
+  "foto": "https://sd-upiiz.s3.us-east-2.amazonaws.com/Alumnos/activity.drawio.png"
+},
+{
+  "_id": {
+    "$oid": "6756287acf41c6bee09ff0f9"
+  },
+  "nombre": "ea",
+  "apellido": "ea",
+  "fecha_nacimiento": "01/01/01",
+  "direccion": "ea",
+  "foto": "https://sd-upiiz.s3.us-east-2.amazonaws.com/Alumnos/activity.drawio.png"
+}]

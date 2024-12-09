@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6754fbc458f6ef2948b01d97"
+  },
+  "alumno_id": "asd",
+  "materia_id": "asd",
+  "calificacion": 4
+},
+{
+  "_id": {
+    "$oid": "67561528cd3d1fcef26b0d75"
+  },
+  "alumno_id": {
+    "$oid": "6754f30f9b7226d020569dd8"
+  },
+  "materia_id": {
+    "$oid": "6754ba5d9b7226d020569dca"
+  },
+  "calificacion": 9
+}]

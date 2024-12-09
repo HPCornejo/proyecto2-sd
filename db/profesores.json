@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6754ba859b7226d020569dcd"
+  },
+  "nombre": "Si",
+  "apellido": "Si",
+  "fecha_nacimiento": "07/12/24",
+  "direccion": "Una calle",
+  "especialidad": "ashdk",
+  "materias": "asdas, sada"
+},
+{
+  "_id": {
+    "$oid": "675628a3cf41c6bee09ff0fd"
+  },
+  "nombre": "NO",
+  "apellido": "NO",
+  "fecha_nacimiento": "07/12/24",
+  "direccion": "Una calle",
+  "especialidad": "ashdk",
+  "materias": "asdas, sada"
+}]
