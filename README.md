@@ -1,10 +1,12 @@
 #### ERRORES:
 
-*** ERROR 422 ***
+**ERROR 422**
+
 Alumno
 - (POST) No sube la imagen al bucket de s3
 
-*** Error 500 ***
+**Error 500**
+
 Materias
 - (GET) No obtiene todas las materias, pero si se busca por ID si la encuentra
 
